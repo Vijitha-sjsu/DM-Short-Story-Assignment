@@ -16,6 +16,9 @@
 
 ## Video Presentation
 - https://drive.google.com/file/d/1YfFpWtQPZcCCeBDxvhcw8KNFmRI6nWf7/view?usp=drive_link
+- Video covering the paper as well as supplemented by 3 additional paper information for setting helpful context for the viewer.
+- Contains architecture, ablation studies, results and personal insights concluded from the paper.
+- Also added timely information about the recent OpenAI fiasco which relates to synthetic data. 
 
 ## Slide Deck
 - https://www.slideshare.net/vijithagunta1/data-mining-short-story-assignment-2pptx
